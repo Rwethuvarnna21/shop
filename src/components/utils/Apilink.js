@@ -1,1 +1,0 @@
-export const postcodeUrl='https://api.postalpincode.in/pincode'
